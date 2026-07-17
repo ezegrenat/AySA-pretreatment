@@ -1,5 +1,5 @@
 # AySA-pretreatment
-Proyecto de AySA sobre pretratamiento de efluentes, con foco en desarenado, desengrasado y desempeño operativo. Se llegó a configuraciones que puedan mejorar este proceso de limpieza mediante una analogía eléctrico-hidráulica. 
+Proyecto llevado a cabo para AySA (Agua y Saneamientos Argentinos S.A.) sobre pretratamiento de efluentes, con foco en desarenado, desengrasado y desempeño operativo. Se llegó a configuraciones que puedan mejorar el proceso de limpieza mediante una analogía eléctrico-hidráulica. 
                                                                         
   > Trabajo en desarrollo :) 
 
