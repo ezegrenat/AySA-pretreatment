@@ -1,7 +1,7 @@
 # AySA-pretreatment
 Proyecto llevado a cabo para AySA (Agua y Saneamientos Argentinos S.A.) sobre pretratamiento de efluentes, con foco en desarenado, desengrasado y desempeño operativo. Se llegó a configuraciones que puedan mejorar el proceso de limpieza mediante una analogía eléctrico-hidráulica. 
                                                                         
-  > Trabajo en desarrollo :) 
+  > El código es una pequeña parte de todo lo que se estuvo haciendo en el proyecto, que fue publicado en la VII TAMI: https://drive.google.com/file/d/1joInz9P_CSrTFy6Mpcn20RYHnC8NTLjs/view
 
 ## El problema       
   
@@ -16,7 +16,7 @@ Las variables de ajuste disponible son las posiciones de 5 válvulas que control
 * Obtener muestras del proceso es costoso en tiempo.
 * Los datos presentan alta variabilidad. Esto hace que explorar el espacio de configuraciones de
 forma empírica sea inviable, lo cual motiva la necesidad de un modelo que permita planificar los experimentos antes de realizarlos.
-* El trabajo debió ser diseñado en 5 días, por lo que fue necesario enviar unas configuraciones candidatas en lugar de comenzar a probar algo e "ir viendo" qué es lo que funciona.
+* El trabajo debió ser diseñado en 5 días, por lo que fue necesario enviar unas configuraciones candidatas en lugar de comenzar a probar algo e "ir viendo" qué es lo que funciona. 
 
 
 ## Contexto académico
