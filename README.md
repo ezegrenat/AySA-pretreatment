@@ -21,6 +21,6 @@ forma empírica sea inviable, lo cual motiva la necesidad de un modelo que permi
 
 ## Contexto académico
 
-Este trabajo fue desarrollado en 4 días en el marco del **TAMI 2026**, Universidad de Buenos Aires, marzo de 2026.
+Este trabajo fue desarrollado en 5 días en el marco del **TAMI 2026**, Universidad de Buenos Aires, marzo de 2026.
 
 
